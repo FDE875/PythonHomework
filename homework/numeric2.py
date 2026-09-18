@@ -1,0 +1,5 @@
+a = float(input("1-son: "))
+b = float(input("2-son: "))
+c = float(input("3- son: "))
+print( "Largest:", max(a ,b ,c ))
+print("Smallest:", min(a,b,c))
