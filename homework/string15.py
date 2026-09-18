@@ -1,8 +1,8 @@
-sentence = input("Enter a sentence: ")
-words = sentence.split()
-acronym = ""
+# sentence = input("Enter a sentence: ")
+# words = sentence.split()
+# acronym = ""
 
-for word in words:
-    acronym += word[0].upper()
+# for word in words:
+#     acronym += word[0].upper()
 
-print("Acronym:", acronym)
+# print("Acronym:", acronym)

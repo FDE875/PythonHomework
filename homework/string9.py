@@ -1,2 +1,2 @@
-run=input("Enter a string: ") 
-print(run[::-1])
+# run=input("Enter a string: ") 
+# print(run[::-1])

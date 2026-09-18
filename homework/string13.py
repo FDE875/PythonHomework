@@ -1,2 +1,2 @@
-life=input("Enter a string: ")
-print(life.replace(" ", ""))
+# life=input("Enter a string: ")
+# print(life.replace(" ", ""))
