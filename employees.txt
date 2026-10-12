@@ -1,0 +1,7 @@
+1004, Nozanin, programmer, 23 000$
+1004, Sevara, Operator, 20 000$
+1001, Anna, Programmer, 20 500$
+1002, Jack, Data Analyst, 21 000$
+1003, Davron, Data engineer, 25 000
+1005, Ruxsora, Manager, 20 000$
+1006, Toxir, Business manager, 20 000$

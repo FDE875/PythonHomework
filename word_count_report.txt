@@ -1,0 +1,3 @@
+Word Count Report
+Total Words: 0
+Top 5 Words:
